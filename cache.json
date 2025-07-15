@@ -8,5 +8,17 @@
         "start": 1752503400,
         "end": 1752512400,
         "status": "waiting"
+    },
+    "2159503": {
+        "start": 1752579000,
+        "end": 1752588000,
+        "title": "Doubt Solving Class",
+        "status": "waiting"
+    },
+    "2159505": {
+        "start": 1752589800,
+        "end": 1752598800,
+        "title": "AP L2",
+        "status": "waiting"
     }
 }
