@@ -41,11 +41,4 @@
         "status": "completed",
         "topic_id": "35850"
     },
-    "2165834": {
-        "start": 1752849000,
-        "end": 1752856920,
-        "title": "AP - L3",
-        "status": "waiting",
-        "topic_id": "35848"
-    }
 }
