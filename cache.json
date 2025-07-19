@@ -19,5 +19,19 @@
         "title": "English Doubt Class (Course B)",
         "status": "completed",
         "topic_id": "179502"
+    },
+    "2166709": {
+        "start": 1752924600,
+        "end": 1752933600,
+        "title": "Doubt Solving Class",
+        "status": "waiting",
+        "topic_id": "35850"
+    },
+    "2166715": {
+        "start": 1752935400,
+        "end": 1752944400,
+        "title": "AP L4",
+        "status": "waiting",
+        "topic_id": "35848"
     }
 }
