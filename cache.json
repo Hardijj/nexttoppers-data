@@ -5,5 +5,26 @@
         "title": "Doubt Solving class",
         "status": "live",
         "topic_id": "428015"
+    },
+    "2214602": {
+        "start": 1753605000,
+        "end": 1753611420,
+        "title": "IT & Ai Doubt Class",
+        "status": "waiting",
+        "topic_id": "417854"
+    },
+    "2214603": {
+        "start": 1753605000,
+        "end": 1753611540,
+        "title": "IT & Ai Doubt Class",
+        "status": "waiting",
+        "topic_id": "59448"
+    },
+    "2214582": {
+        "start": 1753615800,
+        "end": 1753624800,
+        "title": "Metals & Non-metals L3",
+        "status": "waiting",
+        "topic_id": "35850"
     }
 }
