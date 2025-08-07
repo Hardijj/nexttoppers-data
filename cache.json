@@ -117,5 +117,19 @@
         "title": "Water resources - 1",
         "status": "completed",
         "topic_id": "35849"
+    },
+    "2241948": {
+        "start": 1754577000,
+        "end": 1754586000,
+        "title": "Water resources - 2",
+        "status": "waiting",
+        "topic_id": "35849"
+    },
+    "2241947": {
+        "start": 1754652600,
+        "end": 1754665200,
+        "title": "Electricity L1",
+        "status": "waiting",
+        "topic_id": "35850"
     }
 }
