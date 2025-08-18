@@ -80,9 +80,9 @@
         "start": 1755527400,
         "end": 1755536400,
         "title": "Triangles - L1",
-        "status": "waiting",
+        "status": "live",
         "topic_id": "35848",
         "file_url": "https://dga9kme080o0w.cloudfront.net/out/v1/5c7cfedca3df4fc99ea383b5f2e6a7a8/index.m3u8",
-        "time": ""
+        "time": 1755527432
     }
 }
