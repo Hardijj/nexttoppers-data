@@ -102,10 +102,10 @@
         "start": 1755690300,
         "end": 1755698400,
         "title": "Electricity L4",
-        "status": "waiting",
+        "status": "live",
         "topic_id": "35850",
         "file_url": "https://d133w6ldrek1er.cloudfront.net/out/v1/f15d86916b1f404baeb09967b920d86a/index.m3u8",
-        "time": ""
+        "time": 1755690379
     },
     "2258997": {
         "start": 1755700200,
