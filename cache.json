@@ -100,9 +100,9 @@
     },
     "2258995": {
         "start": 1755690300,
-        "end": 1755698400,
+        "end": 1755694772,
         "title": "Electricity L4",
-        "status": "live",
+        "status": "completed",
         "topic_id": "35850",
         "file_url": "https://d133w6ldrek1er.cloudfront.net/out/v1/f15d86916b1f404baeb09967b920d86a/index.m3u8",
         "time": 1755690379
